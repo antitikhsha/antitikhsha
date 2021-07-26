@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Antara
-- 🧠 I’m interested in understanding the brain anomalies with computational lenses more precisely by applying AI and building affordable AI technologies.
-- 💻 I’m currently learning neuroimaging techinques and how to combine deep learning with the techniques.
-- 📩 You can reach out to me by emailing me directly.
+Trying to incorporate AI in Medicine/Healthcare, Computer Vision & Computational Neuroscience together, with a focus on discern neurodegenerative diseases. 
 
 <!---
 antitikhsha/antitikhsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
